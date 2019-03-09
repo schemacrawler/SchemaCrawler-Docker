@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-SCHEMACRAWLER_VERSION=15.04.01
+SCHEMACRAWLER_VERSION=15.05.01
 
 echo "** Setting up SchemaCrawler v$SCHEMACRAWLER_VERSION distribution"
 
